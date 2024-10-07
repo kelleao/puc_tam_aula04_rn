@@ -16,6 +16,8 @@ Teste a função `length` que retorna o comprimento de uma string.
 - Teste com string em ordem reversa
 - Teste com string não ordenada
 
+![alt text](<Teste length-1.png>)
+
 ### Função de Máximo (Maximum)
 
 Teste a função `max` que retorna o maior entre dois números.
@@ -25,6 +27,8 @@ Teste a função `max` que retorna o maior entre dois números.
 - Teste com um número positivo e um negativo
 - Teste com zero e um número positivo
 - Teste com zero e um número negativo
+
+![alt text](<Teste max.png>)
 
 ### Função de Ordenação (Sort)
 
@@ -36,6 +40,8 @@ Teste a função `sort` que ordena um array de strings.
 - Teste com array em ordem reversa
 - Teste com array não ordenada
 
+![alt text](<Teste sort.png>)
+
 ### Função de Palíndromo (Palindrome)
 
 Teste a função `isPalindrome` que verifica se uma string é um palíndromo.
@@ -44,6 +50,13 @@ Teste a função `isPalindrome` que verifica se uma string é um palíndromo.
 - Teste com string de um único caractere
 - Teste com string que é um palíndromo
 - Teste com string que não é um palíndromo
+
+![alt text](<Teste palindrome.png>)
+
+### Função de Soma (Sum)
+
+Teste a função `sum` que soma.
+![alt text](<Teste sum.png>)
 
 ## Estrutura do Projeto
 
