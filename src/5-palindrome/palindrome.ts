@@ -1,3 +1,5 @@
-export const sort = (arr: string[]): string[] => {
-  return arr.sort();
+export const isPalindrome = (arr: string): boolean => {
+  const palindromo = arr.toLowerCase().replace(/\s+/g, "");
+
+  return palindromo === palindromo.split("").reverse().join("");
 };

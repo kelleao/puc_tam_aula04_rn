@@ -7,6 +7,7 @@ Este projeto foi criado com o propósito de oferecer aos estudantes uma oportuni
 ## Exercícios de Testes Unitários
 
 ### Função de Comprimento (Length)
+
 Teste a função `length` que retorna o comprimento de uma string.
 
 - Teste com string vazia
@@ -16,6 +17,7 @@ Teste a função `length` que retorna o comprimento de uma string.
 - Teste com string não ordenada
 
 ### Função de Máximo (Maximum)
+
 Teste a função `max` que retorna o maior entre dois números.
 
 - Teste com ambos os números positivos
@@ -25,6 +27,7 @@ Teste a função `max` que retorna o maior entre dois números.
 - Teste com zero e um número negativo
 
 ### Função de Ordenação (Sort)
+
 Teste a função `sort` que ordena um array de strings.
 
 - Teste com array vazio
@@ -34,6 +37,7 @@ Teste a função `sort` que ordena um array de strings.
 - Teste com array não ordenada
 
 ### Função de Palíndromo (Palindrome)
+
 Teste a função `isPalindrome` que verifica se uma string é um palíndromo.
 
 - Teste com string vazia
@@ -53,14 +57,15 @@ O projeto está estruturado da seguinte forma:
 Para executar os testes, siga os passos abaixo:
 
 1. Instale as dependências:
-    ```bash
-    npm install
-    ```
+
+   ```bash
+   npm install
+   ```
 
 2. Execute os testes:
-    ```bash
-    npm test
-    ```
+   ```bash
+   npm test
+   ```
 
 ## Ferramentas Utilizadas
 

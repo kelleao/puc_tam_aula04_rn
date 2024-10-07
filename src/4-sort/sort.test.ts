@@ -1,6 +1,6 @@
 import { sort } from "./sort";
 
-describe("Sort Exercise", () => {
+describe("Teste ordenação de array", () => {
   test("testSort_EmptyArray", () => {
     const result = sort([]);
     expect(result).toEqual([]);

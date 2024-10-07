@@ -1,6 +1,6 @@
 import { length } from "./length";
 
-describe("Length Exercise", () => {
+describe("Teste tamanho", () => {
   test("testLength_EmptyString", () => {
     const result = length("");
     expect(result).toBe(0);
