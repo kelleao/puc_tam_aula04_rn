@@ -28,7 +28,10 @@ Teste a função `max` que retorna o maior entre dois números.
 - Teste com zero e um número positivo
 - Teste com zero e um número negativo
 
+<<<<<<< HEAD
 ![alt text](<Teste max.png>)
+=======
+>>>>>>> e7d21b2f1726ac89b6afab09bec5b0c941bef6ee
 
 ### Função de Ordenação (Sort)
 
