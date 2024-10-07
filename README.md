@@ -26,6 +26,7 @@ Teste a função `max` que retorna o maior entre dois números.
 - Teste com zero e um número positivo
 - Teste com zero e um número negativo
 
+
 ### Função de Ordenação (Sort)
 
 Teste a função `sort` que ordena um array de strings.
